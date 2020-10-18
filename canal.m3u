@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1,canal 4
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzMDc5NzAyLCJzZXNzaW9uIjoiMTkwLjExMy44NC43MyIsIndoaXRlbGlzdCI6WyIxOTAuMTEzLjg0LjczIl19LCJzaWduYXR1cmUiOiIxNmIwOTUyNTM2NjFmMTA5MTczOTM4YWFmMjRlMjY4NDBlMWZjZDA4In0=
+#EXTINF:-1,canal 6
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzMDc3ODk1LCJzZXNzaW9uIjoiMTkwLjExMy44NC43MyIsIndoaXRlbGlzdCI6WyIxOTAuMTEzLjg0LjczIl19LCJzaWduYXR1cmUiOiJjMWM4ZTEzYTA2MTQ0OTcyNzljNDE2MDg1NDlhOTNiYjJhNDQyNzllIn0%3D
+#EXTINF:-1,canal 7
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO52D7_5ohw_EsBOclr9bVcCI)/dm/3/x29e3wg/s/live-1.m3u8
+#EXTINF:-1,canal 11
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzMDc5NjA5LCJzZXNzaW9uIjoiMTkwLjExMy44NC43MyIsIndoaXRlbGlzdCI6WyIxOTAuMTEzLjg0LjczIl19LCJzaWduYXR1cmUiOiI3OWFhYjc2ZjU2ZGQwNjg2NmNmNGQzMWViY2RjOThlZTY1ZmI0YTRlIn0%3D
+#EXTINF:-1,canal 29 vm latino
+http://k4.usastreams.com/vmtv/vmaltino/chunklist_w176013541.m3u8
+#EXTINF:-1,locomotiontv
+http://toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:-1,multimedios costa rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1,tica vision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,extrema costa rica
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,
